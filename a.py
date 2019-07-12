@@ -1,3 +1,4 @@
-fdsgfdsa
-dsfgsgfdsags
-dsgfdsgd
+import time
+time.sleep(5)
+
+print('nihao')
