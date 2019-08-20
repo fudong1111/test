@@ -40,3 +40,5 @@ if __name__ == '__main__':
     while True:
         delDir(path, t)
         time.sleep(ts)
+
+'''在命令行中执行python delDir.py D:\\test'''
