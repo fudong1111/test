@@ -2,3 +2,4 @@ conda list查看安装的内容
 conda upgrade安装更新
 conda install package_name安装包
 conda remove package_names卸载包
+conda update package_name更新包
