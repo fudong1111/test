@@ -1,0 +1,14 @@
+安装swig
+
+官网http://www.swig.org
+下载解压
+我们把解压后的路径添加到系统变量Path里。
+D:\swigwin-3.0.12
+
+缺少Visual C++ 14.0支持
+转自https://blog.csdn.net/qq_38161040/article/details/87928583
+
+
+
+
+最后pip install pyhook3
