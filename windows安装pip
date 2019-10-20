@@ -8,3 +8,5 @@ cmd进入到解压后文件目录
 例如:
 C:\Users\dell\AppData\Local\Programs\Python\Python36\Scripts
 将如上添加至环境变量的PATH中
+升级pip版本:
+python -m pip install --upgrade pip
