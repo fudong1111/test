@@ -11,3 +11,6 @@ print(r)
 ('64bit', 'WindowsPE')
 
 所以下载64位的
+
+cmd进入下载目录
+pip install pyHook‑1.5.1‑cp36‑cp36m‑win_amd64.whl
