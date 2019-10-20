@@ -1,0 +1,13 @@
+下载地址
+https://www.lfd.uci.edu/~gohlke/pythonlibs/
+找到pyhook
+
+但是有一个问题先确认下载多少位的
+import platform
+r =platform.architecture()
+print(r)
+
+我们打印出来
+('64bit', 'WindowsPE')
+
+所以下载64位的
