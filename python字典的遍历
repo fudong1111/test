@@ -1,0 +1,11 @@
+
+myDict = dict({'a': '1111111111', 'b': '1112'})
+
+if __name__ == '__main__':
+    print(type(myDict))
+    for i,j in myDict.items():
+        print(i,j)
+    for i in myDict.keys():
+        print(i)
+    for i in myDict.values():
+        print(i)
